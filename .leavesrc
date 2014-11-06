@@ -1,0 +1,10 @@
+{
+    "project": {
+        "leaves": "0.23.22",
+        "appname": "foobar",
+        "options": {
+            "css": "stylus",
+            "html": "jade"
+        }
+    }
+}
